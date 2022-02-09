@@ -4,7 +4,7 @@ jieba
 numpy
 tqdm
 scikit-learn
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.5.3
 keras==2.2.5
 opencc-python-reimplemented
 keras-bert==0.81.0
